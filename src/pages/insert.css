@@ -1,0 +1,17 @@
+#css {
+    background-color: white;
+}
+
+#css-font {
+    color: black;
+    text-align: left;
+}
+
+#css-input {
+    width: 99%;
+}
+
+#small-font {
+    margin-bottom: -10px;
+    color: black;
+}
